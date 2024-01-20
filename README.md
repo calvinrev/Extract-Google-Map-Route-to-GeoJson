@@ -1,2 +1,2 @@
-# Extract-Google-Map-Route-to-GeoJson
-This repo is contains script for extracting Google Map Route encodedPolyline to GeoJson file using Python
+## Extract-Google-Map-Route-to-GeoJson
+This repository contains script for extracting encodedPolyline from Google Map Route API and convert it to GeoJson file using Python
